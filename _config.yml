@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: STWUR
 locale: en_US
-description: Describe your website here.
+description: Stowarzyszenie Wrocławskich Użytowników R.
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -36,9 +36,8 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: STWUR
+  email: kontakt@stwur.pl
   disqus-shortname:
   twitter: #username
   facebook: #username
