@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
+title: Artykuły
+excerpt: "Archiwum STWURowych a"
 search_omit: true
 ---
 

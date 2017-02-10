@@ -6,6 +6,7 @@ description: Stowarzyszenie Wrocławskich Użytowników R.
 logo: site-logo.png
 search: true
 url: http://localhost:4000
+share: true
 
 # Jekyll configuration
 
@@ -56,3 +57,4 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
+

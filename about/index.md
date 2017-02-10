@@ -2,10 +2,12 @@
 layout: page
 title: O STWURZE
 excerpt: "STWUR zrzesza użytkowników R z Dolnego Śląska."
-modified: 2014-08-08T19:44:38.564948-04:00
+modified: 2017-02-09
 ---
 
 Chcemy mocniej zintegrować dolnośląską społeczność osób pracujących w środowisku **R**. W ramach STWUR będziemy organizować spotkania umożliwiające nie tylko wymianę informacji z innymi użytkownikami **R**, ale również wspólną analizę danych. Ponieważ jesteśmy związani zarówno ze środowiskiem akademickim jak i analizą danych w biznesie, zależy nam aby tematyka naszych spotkań odpowiadała wszystkim osobom zainteresowanym analizą danych.
+
+Nasz e-mail to kontakt@stwur.pl
 
 #### Michał Burdukiewicz
 
