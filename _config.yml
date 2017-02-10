@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: STWUR
-locale: en_US
+locale: pl_PL
 description: Stowarzyszenie Wrocławskich Użytowników R.
 logo: site-logo.png
 search: true
@@ -52,7 +52,7 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics:
+    analytics: UA-54221551-7
     verify:
     ad-client:
     ad-slot:
